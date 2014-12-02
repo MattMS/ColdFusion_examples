@@ -1,4 +1,5 @@
-ColdFusion_examples
-===================
+# ColdFusion examples
 
-ColdFusion example code
+Example code for ColdFusion.
+
+- [cfquery](./cfquery.cfm)
