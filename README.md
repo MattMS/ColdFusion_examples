@@ -2,9 +2,11 @@
 
 Example code for ColdFusion.
 
-- [cfinclude](./cfinclude.cfm)
+- [if](./if.cfm)
 
-- [cfquery](./cfquery.cfm)
+- [include](./include.cfm)
+
+- [query](./query.cfm)
 
 
 ## Links
