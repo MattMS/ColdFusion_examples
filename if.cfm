@@ -15,3 +15,10 @@
 		writeOutput('<p>Your number is #url.my_number#!</p>')
 	}
 </cfscript>
+
+
+<ul>
+	<li><a href="http://cfdocs.org/cfelse">cfelse on CFDocs</a></li>
+	<li><a href="http://cfdocs.org/cfelseif">cfelseif on CFDocs</a></li>
+	<li><a href="http://cfdocs.org/cfif">cfif on CFDocs</a></li>
+</ul>
