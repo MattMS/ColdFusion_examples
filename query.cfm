@@ -17,3 +17,9 @@
 		<cfqueryparam cfsqltype="cf_sql_time" value="#createOdbcDateTime(now())#">
 	)
 </cfquery>
+
+
+<ul>
+	<li><a href="http://cfdocs.org/cfquery">cfquery on CFDocs</a></li>
+	<li><a href="http://cfdocs.org/cfqueryparam">cfqueryparam on CFDocs</a></li>
+</ul>
