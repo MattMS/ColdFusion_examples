@@ -19,6 +19,16 @@
 </cfquery>
 
 
+<h2>cfquery attributes</h2>
+
+<dl>
+	<dt>maxrows</dt>
+	<dd>Count of rows exposed from query. `-1` for all results.</dd>
+</dl>
+
+
+<h2>Links</h2>
+
 <ul>
 	<li><a href="http://cfdocs.org/cfquery">cfquery on CFDocs</a></li>
 	<li><a href="http://cfdocs.org/cfqueryparam">cfqueryparam on CFDocs</a></li>
