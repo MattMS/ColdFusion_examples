@@ -1,4 +1,4 @@
-# cfparam
+# cfhttp
 
 ```ColdFusion
 <cfset data = {
